@@ -2,7 +2,7 @@
 Summary:	Python wrapper for the Google Maps and Local Search APIs
 Name:		python-%{module}
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	AGPL v3
 Group:		Development/Languages/Python
 Source0:	http://downloads.sourceforge.net/project/py-googlemaps/googlemaps-%{version}.tar.gz
