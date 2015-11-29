@@ -9,7 +9,7 @@ Source0:	http://downloads.sourceforge.net/project/py-googlemaps/googlemaps-%{ver
 # Source0-md5:	314b5c32f083a2070efcec7f3942f6c8
 URL:		http://sourceforge.net/projects/py-googlemaps/
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
